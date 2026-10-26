@@ -1,0 +1,6 @@
+{
+  "name": "Mind Edge - Educational Platform",
+  "description": "Structured educational platform for Students and Teachers with syllabus books, past papers, and interactive practice quizzes across Grades 6 through 9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
